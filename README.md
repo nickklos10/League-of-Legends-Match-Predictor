@@ -71,9 +71,9 @@ Ensure that the dataset is placed in the root directory of the project or update
    ```
    
 3. Install Dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 4. Verify Installation:
    Launch Jupyter Notebook to ensure everything is set up correctly.
