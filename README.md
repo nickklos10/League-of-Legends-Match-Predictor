@@ -1,6 +1,6 @@
-# League-of-Legends-Match-Predictor
+# League of Legends Match Predictor
 
-**Predicting League of Legends Match Outcomes Using Logistic Regression and PyTorch**
+**Predicting League of Legends Match Outcomes Using Logistic Regression and PyTorch.**
 
 ## Table of Contents
 
